@@ -31,5 +31,6 @@ Credits
 Contributors
 ------------
 
+* Sergi Oliva <sergi.oliva@qubiq.es>
 * Xavier Jimenez <xavier.jimenez@qubiq.es>
 * Andrea Stirpe <a.stirpe@onestein.nl>
