@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Copyright 2019 Jesus Ramoneda <jesus.ramoneda@qubiq.es>
+    License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
+<odoo>
+    <act_window
+        id="action_move_line_select_by_partner"
+        name="Journal Items"
+        context="{'search_default_partner_id': [active_id]}"
+        res_model="account.move.line"
+        src_model="res.partner"/>
+</odoo>
